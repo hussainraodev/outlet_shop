@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 610775333e685ac4183c526c088e60de
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Saira SemiExpanded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 506b9b2f69ca4884e8820f194a21897e, type: 3}
+  - {fileID: 12800000, guid: 3037bc569946b8d40b513ec16f5bd41e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859288514140",
+    "project_id": "my-outlet-shop-30714",
+    "storage_bucket": "my-outlet-shop-30714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859288514140:android:7e703cb3529445b4484099",
+        "android_client_info": {
+          "package_name": "com.my.outlet.shopping.mall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRDZ6KiL9fVqvkN4hn-S99mBb4at5SmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

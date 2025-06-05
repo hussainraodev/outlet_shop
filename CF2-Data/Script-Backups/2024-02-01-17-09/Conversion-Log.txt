@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\Invector-3rdPersonController\Basic Locomotion\Scripts\CharacterController\vThirdPersonInput.cs]
+	Fragments : 2
+		[ 0] : Line:  295	Other mod.	[Cursor.visible]
+		[ 1] : Line:  448	InputMethod   GetKeyDown          	(toggleWalk)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [D:/_hamza/Interbolt/Outlet_Rush_3D/CF2-Data/Script-Backups/2024-02-01-17-09\Assets-After/\Invector-3rdPersonController\Basic Locomotion\Scripts\CharacterController\vThirdPersonInput.cs] to [D:/_hamza/Interbolt/Outlet_Rush_3D/Assets/\Invector-3rdPersonController\Basic Locomotion\Scripts\CharacterController\vThirdPersonInput.cs]
+
+Overwriting COMPLETED!
